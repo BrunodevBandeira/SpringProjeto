@@ -15,7 +15,7 @@ import io.github.curso.todo.repository.TodoRepository;
 @RestController
 @RequestMapping("/api/todos")
 public class TodoController {
-	/*
+	
 	
 	 @Autowired
 	 private TodoRepository repository;
@@ -32,47 +32,6 @@ public class TodoController {
 				 .orElseThrow(() -> new ResponseStatusException(HttpStatus.NOT_FOUND));
 	 }
 }
-
-
-*/
-
-
-
-
-
-
-
-
-
-						public static void main(String[] args) {
-							    while(true) {
-							    	
-							    	eat();
-							    	sleet();
-							    	code();
-							    	repeat();
-							    	
-							    }
-							    	
-							 }
-						
-						
-						public static void eat() {}
-						public static void sleep() {}
-						public static void code() {}
-						public static void repeat() {}
-
-						}
-
-
-
-
-
-
-
-
-
-
 
 
 
